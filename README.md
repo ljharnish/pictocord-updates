@@ -11,3 +11,5 @@ Added version at bottom of screen.
 Added Dark Mode Toggle.
 Fixed emoji added to every message.
 ```
+
+Source Code is **NOT** being released.
