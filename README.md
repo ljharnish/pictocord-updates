@@ -1,6 +1,6 @@
 # Pictochat 
 
-# Version 1.3 Patch Notes:
+## Version 1.3 Patch Notes:
 ```
 Made Github page.
 Added name character limit. (25)
