@@ -5,11 +5,11 @@
 
 Created and maintained by me, [ljharnish](https://www.youtube.com/c/ljharnish), Pictochat is a chat platform that runs utilizing [Scaledrone](https://www.scaledrone.com/) for (close to) real-time messaging.
 
-## Version 1.4 Patch Notes:
+## Version 1.4.1 Patch Notes:
 ```
-Added cool buttons. That's it.
+Fixed Formatting bugs on Mobile with buttons.
 ```
-![v1.4 Screenshot](https://i.imgur.com/L3kce3H.png)
+![v1.4.1 Screenshot](https://i.imgur.com/rNpk3aX.jpg)
 
 ## [Join The Discord!](https://discord.gg/zhFGnhr2Cs)
 
