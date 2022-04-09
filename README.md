@@ -11,6 +11,8 @@ Added cool buttons. That's it.
 ```
 ![v1.4 Screenshot](https://i.imgur.com/L3kce3H.png)
 
+## [Join The Discord!](https://discord.gg/zhFGnhr2Cs)
+
 Source Code is **NOT** being released.
 
 This Pictochat is not affiliated with Nintendo in ANY WAY.
