@@ -1,16 +1,19 @@
 
 # [Pictochat!](http://pictochat.ml) ![Pictochat Logo](https://piskel-imgstore-b.appspot.com/img/123e9585-b678-11ec-8847-d7c4f047bda2.gif)
-### [Join The Discord for full patch notes! (And information on future updates ;)](https://discord.gg/zhFGnhr2Cs)
+### [Join The Discord](https://discord.gg/zhFGnhr2Cs) for full patch notes, info on new updates, and a #pictochat channel to talk between apps!
 
 ## About Pictochat
 
 Created and maintained by me, [ljharnish](https://www.youtube.com/c/ljharnish), Pictochat is a chat platform that runs utilizing [Scaledrone](https://www.scaledrone.com/) for (close to) real-time messaging.
 
-## Version 1.4.1 Patch Notes:
+## Update 1.5 Patch Notes:
 ```
-Fixed Formatting bugs on Mobile with buttons.
+Pictochat is now linked to Discord!!
+Join the discord with the link above and below, and go to the #pictochat channel to talk to Pictochat!
 ```
-![v1.4.1 Screenshot](https://i.imgur.com/rNpk3aX.jpg)
+
+![Pictochat Screenshot](https://i.imgur.com/uR2s3sP.png)
+![Discord Screenshot](https://i.imgur.com/x18Q1Ha.png)
 
 ## [Join The Discord!](https://discord.gg/zhFGnhr2Cs)
 
