@@ -1,6 +1,6 @@
 
 # [Pictochat!](http://pictochat.ml) ![Pictochat Logo](https://piskel-imgstore-b.appspot.com/img/123e9585-b678-11ec-8847-d7c4f047bda2.gif)
-### [Join The Discord](https://discord.gg/zhFGnhr2Cs) for full patch notes, info on new updates, and a #pictochat channel to talk between apps!
+### [Join The Discord](https://discord.gg/zhFGnhr2Cs) for full patch notes, info on new updates, and a (new) #pictochat channel to talk between apps!
 
 ## About Pictochat
 
