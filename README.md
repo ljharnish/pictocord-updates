@@ -10,6 +10,8 @@ Created and maintained by me, [ljharnish](https://www.youtube.com/c/ljharnish), 
 ```
 Pictochat is now linked to Discord!!
 Join the discord with the link above and below, and go to the #pictochat channel to talk to Pictochat!
+
+PictoCord now has Pictochat Exclusive Commands, such as p!y12pings and p!help.
 ```
 
 ![Pictochat Screenshot](https://i.imgur.com/uR2s3sP.png)
