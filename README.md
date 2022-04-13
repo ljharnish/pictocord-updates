@@ -15,6 +15,17 @@ Join the discord with the link above and below, and go to the #pictochat channel
 ![Pictochat Screenshot](https://i.imgur.com/uR2s3sP.png)
 ![Discord Screenshot](https://i.imgur.com/x18Q1Ha.png)
 
+# PictoCord
+## (PictoCord is a bot that transmits messages Pictochat <-> Discord)
+
+## Update 1.4 Patch Notes:
+```
+PictoCord can now send images to Pictochat!
+Using images URLs, sending images in Discord will send an image link into Pictochat, where Pictochat users can actually see your images!
+```
+
+![Pictochat Screenshot](https://i.imgur.com/TLCgpWZ.png)
+
 ## [Join The Discord!](https://discord.gg/zhFGnhr2Cs)
 
 Source Code is **NOT** being released.
