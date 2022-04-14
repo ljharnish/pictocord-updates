@@ -6,14 +6,13 @@
 
 Created and maintained by me, [ljharnish](https://www.youtube.com/c/ljharnish), Pictochat is a chat platform that runs utilizing [Scaledrone](https://www.scaledrone.com/) for (close to) real-time messaging.
 
-## Update 1.5 Patch Notes:
+## Update 1.5.1 Patch Notes:
 ```
-Pictochat is now linked to Discord!!
-Join the discord with the link above and below, and go to the #pictochat channel to talk to Pictochat!
+Pictochat now has more chat rooms!!
+There are 5 channels. 4 for regular use, and the 5th one is the "Designated PictoCord™️ room."
 ```
 
-![Pictochat Screenshot](https://i.imgur.com/uR2s3sP.png)
-![Discord Screenshot](https://i.imgur.com/x18Q1Ha.png)
+![Pictochat Screenshot](https://i.imgur.com/6iCqCvI.png)
 
 # PictoCord
 ## (PictoCord is a bot that transmits messages Pictochat <-> Discord)
