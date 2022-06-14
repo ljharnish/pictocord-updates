@@ -1,0 +1,233 @@
+.themesButton {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 4px;
+  border-color: #f44336;
+  font-size: 16px;
+  padding: 12px 28px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.themesButton:hover {
+  background-color: #f44336;
+  color: white;
+}
+.basicHTMLButton {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 4px;
+  border-color: #000000;
+  font-size: 16px;
+  padding: 12px 28px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.basicHTMLButton:hover {
+  background-color: #000000;
+  color: white;
+}
+.nameButton {
+  display: inline-block;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 4px;
+  border-color: #E3E5E8;
+  font-size: 16px;
+  padding: 12px 28px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.nameButton:hover {
+  background-color: #E3E5E8;
+}
+.chatIDButton {
+  display: inline-block;
+  margin-bottom: 10px;
+  text-align: left;
+  background-color: #bdbcbc;
+  color: black;
+  border-radius: 4px;
+  border-color: #E3E5E8;
+  font-size: 16px;
+  padding: 12px 10px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.chatIDButton:hover {
+  background-color: #575757;
+}
+.helpButton {
+  display: inline-block;
+  margin-bottom: 10px;
+  text-align: left;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 4px;
+  border-color: #000000;
+  font-size: 16px;
+  padding: 12px 6px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.helpButton:hover {
+background-color: #575757;
+}
+.lightModeButton {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 4px;
+  border-color: #E3E5E8;
+  font-size: 16px;
+  padding: 12px 28px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.lightModeButton:hover {
+  background-color: #E3E5E8;
+}
+.darkModeButton {
+display: inline-block;
+width: 100%;
+margin-bottom: 10px;
+text-align: center;
+background-color: #ffffff;
+color: black;
+border-radius: 4px;
+border-color: #36393F;
+font-size: 16px;
+padding: 12px 28px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+.darkModeButton:hover {
+background-color: #36393F;
+color: white;
+}
+.AMOLEDButton {
+display: inline-block;
+width: 100%;
+margin-bottom: 10px;
+text-align: center;
+background-color: #ffffff;
+color: black;
+border-radius: 4px;
+border-color: black;
+font-size: 16px;
+padding: 12px 28px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+.AMOLEDButton:hover {
+background-color: black;
+color: white;
+}
+.redModeButton {
+display: inline-block;
+width: 100%;
+margin-bottom: 10px;
+text-align: center;
+background-color: #ffffff;
+color: black;
+border-radius: 4px;
+border-color: rgb(104, 0, 0);
+font-size: 16px;
+padding: 12px 28px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+.redModeButton:hover {
+background-color: rgb(104, 0, 0);
+color: white;
+}
+.greenModeButton {
+display: inline-block;
+width: 100%;
+margin-bottom: 10px;
+text-align: center;
+background-color: #ffffff;
+color: black;
+border-radius: 4px;
+border-color: rgb(0, 104, 0);
+font-size: 16px;
+padding: 12px 28px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+.greenModeButton:hover {
+background-color: rgb(0, 104, 0);
+color: white;
+}
+.blueModeButton {
+display: inline-block;
+width: 100%;
+margin-bottom: 10px;
+text-align: center;
+background-color: #ffffff;
+color: black;
+border-radius: 4px;
+border-color: rgb(0, 0, 104);
+font-size: 16px;
+padding: 12px 28px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+.blueModeButton:hover {
+background-color: rgb(0, 0, 104);
+color: white;
+}
+#channel2, #channel3, #channel4 {
+cursor: pointer;
+}
+.ljhButton {
+  display: inline-block;
+  font-family: Pixel Font;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #000000;
+  color: lime;
+  border-radius: 4px;
+  border-color: #E3E5E8;
+  font-size: 16px;
+  padding: 12px 28px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 100%;
+}
+
+.smallTxtBut, .mediumTxtBut, .largeTxtBut, .extraTxtBut {
+display: inline-block;
+width: 100%;
+margin-bottom: 10px;
+text-align: center;
+background-color: #ffffff;
+color: black;
+border-radius: 4px;
+border-color: black;
+font-size: 16px;
+padding: 12px 28px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+.smallTxtBut:hover, .mediumTxtBut:hover, .largeTxtBut:hover, .extraTxtBut:hover {
+background-color: black;
+color: white;
+}
+
+.smallTxtBut { font-size: 10px; }
+.mediumTxtBut { font-size: 16px; }
+.largeTxtBut { font-size: 22px; }
+.extraTxtBut { font-size: 28px; }
